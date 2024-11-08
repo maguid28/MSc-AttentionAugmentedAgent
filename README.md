@@ -46,9 +46,17 @@ For future work, the number of environments tested could be increased to see if 
 
 The comparative average rewards with varying entropy coefficients in the Breakout environment:
 
-![Breakout Comparative Average Reward](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/Breakout%20Comparative%20Average%20Reward.png "Breakout Comparative Average Reward with Varying Entropy Coefficients")
+![Breakout Comparative Average Reward](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/Breakout%20Comparative%20Average%20Reward.png "Breakout Comparative Average Reward")
 
-![Breakout Comparative Average Reward](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/Breakout%20Best%20Run%20Comparison.png "Breakout Comparative Average Reward with Varying Entropy Coefficients")
+![Breakout Comparative Best Run](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/Breakout%20Best%20Run%20Comparison.png "Breakout Comparative Best Run")
+
+![SpaceInvaders Comparative Average Reward](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/Breakout%20Comparative%20Average%20Reward.png "SpaceInvaders Comparative Average Reward")
+
+![SpaceInvaders Comparative Best Run](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/Breakout%20Best%20Run%20Comparison.png "SpaceInvaders Comparative Best Run")
+
+![Seaquest Comparative Average Reward](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/Breakout%20Comparative%20Average%20Reward.png "Seaquest Comparative Average Reward")
+
+![Seaquest Comparative Best Run](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/Breakout%20Best%20Run%20Comparison.png "Seaquest Comparative Best Run")
 
 
 ## Video Demonstration
