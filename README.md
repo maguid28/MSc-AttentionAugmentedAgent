@@ -13,6 +13,10 @@ In reinforcement learning, the balance between exploration and exploitation is c
 
 ## Results and Conclusions
 
+### Breakout Comparative Average Reward with Varying Entropy Coefficents
+![Breakout Comparative Average Reward with Varying Entropy Coefficents](results/Compiled Experiment Results/Breakout Comparative Average Reward with Varying Entropy Coefficents.png "Breakout Comparative Average Reward with Varying Entropy Coefficents")
+
+
 
 ## Video Demonstration
 A video demonstration of the visualized attention maps and the agent's performance across different settings and environments can be viewed [here](https://www.youtube.com/watch?v=hS4bjPz-kGw).
