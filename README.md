@@ -14,8 +14,10 @@ In reinforcement learning, the balance between exploration and exploitation is c
 ## Results and Conclusions
 
 ### Breakout Comparative Average Reward with Varying Entropy Coefficents
-![Breakout Comparative Average Reward with Varying Entropy Coefficents](results/Compiled Experiment Results/Breakout Comparative Average Reward with Varying Entropy Coefficents.png "Breakout Comparative Average Reward with Varying Entropy Coefficents")
 
+The comparative average rewards with varying entropy coefficients in the Breakout environment:
+
+![Breakout Comparative Average Reward](results/Compiled%20Experiment%20Results/Breakout%20Comparative%20Average%20Reward%20with%20Varying%20Entropy%20Coefficients.png "Breakout Comparative Average Reward with Varying Entropy Coefficients")
 
 
 ## Video Demonstration
