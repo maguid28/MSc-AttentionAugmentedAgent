@@ -46,7 +46,9 @@ For future work, the number of environments tested could be increased to see if 
 
 The comparative average rewards with varying entropy coefficients in the Breakout environment:
 
-![Breakout Comparative Average Reward](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/Compiled%20Experiment%20Results/Breakout%20Comparative%20Average%20Reward%20with%20Varying%20Entropy%20Coefficents.png "Breakout Comparative Average Reward with Varying Entropy Coefficients")
+![Breakout Comparative Average Reward](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/Breakout%20Comparative%20Average%20Reward.png "Breakout Comparative Average Reward with Varying Entropy Coefficients")
+
+![Breakout Comparative Average Reward](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/Breakout%20Best%20Run%20Comparison.png "Breakout Comparative Average Reward with Varying Entropy Coefficients")
 
 
 ## Video Demonstration
