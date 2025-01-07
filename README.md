@@ -13,9 +13,9 @@ In reinforcement learning, the balance between exploration and exploitation is c
 
 ![attention augmented agent architecture](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/diagrams/attention_augmented_agent_architecture.png "attention_augmented_agent_architecture")
 
-![Breakout Comparative Average Reward](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/diagrams/Breakout%20Comparative%20Average%20Reward.png "Breakout Comparative Average Reward")
+![attention network](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/diagrams/attention_network.png "attention network")
 
-![Breakout Comparative Average Reward](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/diagrams/Breakout%20Comparative%20Average%20Reward.png "Breakout Comparative Average Reward")
+![ppo architecture](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/diagrams/ppo_architecture.png "ppo_architecture")
 
 ## Results
 
