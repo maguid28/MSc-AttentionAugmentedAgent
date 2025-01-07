@@ -11,6 +11,12 @@ In reinforcement learning, the balance between exploration and exploitation is c
 - **Decay Strategies**: Both static and dynamic entropy configurations were explored, with particular focus on understanding their impact across different game environments.
 - **Attention Mechanism**: The attention-augmented agent's decision-making processes were visualised using attention maps and provides insight into the influence of entropy regularisation on attention patterns.
 
+![attention augmented agent architecture](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/diagrams/attention_augmented_agent_architecture.png "attention_augmented_agent_architecture")
+
+![Breakout Comparative Average Reward](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/diagrams/Breakout%20Comparative%20Average%20Reward.png "Breakout Comparative Average Reward")
+
+![Breakout Comparative Average Reward](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/diagrams/Breakout%20Comparative%20Average%20Reward.png "Breakout Comparative Average Reward")
+
 ## Results
 
 The experiments conducted show that entropy regularisation is an important mechanism to improve an agent’s ability to explore. The results of the experiments indicate that the decaying entropy coefficients generally led to improved performance across all environments when compared to the static entropy coefficients. It was also observed that the overall stability of the agent was improved when tested over multiple runs, compared to the agents which were configured with static entropy coefficients. This research also investigated whether a single entropy coefficient could be applied across various environments to consistently improve performance. The findings suggest that, while the commonly used static entropy coefficient of 0.01 does result in decent performance, decaying entropy coefficients, specifically a decay from 0.05 – 0.01, often outperform the static coefficients. This data suggests that while a static entropy coefficient of 0.01 can be effective, more dynamic control of the entropy coefficient could be beneficial in producing more optimal agents.
