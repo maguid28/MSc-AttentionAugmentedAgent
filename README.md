@@ -46,6 +46,6 @@ A video demonstration of the visualized attention maps and the agent's performan
 ## Citation
 If you find this research useful or refer to it in your academic or professional work, please consider citing it.
 
-Maguire, D. (2024). Master's Dissertation: Investigating the Impact of Entropy Regularisation on an Attention Augmented Agent. [Source code]. https://github.com/maguid28/MSc-AttentionAugmentedRL
+Maguire, D. (2024). Master's Dissertation: Investigating the Impact of Entropy Regularisation on an Attention Augmented Agent. [Source code]. https://github.com/maguid28/MSc-AttentionAugmentedAgent
 
 
