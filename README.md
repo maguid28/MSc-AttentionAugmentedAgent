@@ -4,6 +4,11 @@
 ![seaquest_after](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/seaquest_after.gif "seaquest_after")
 ![spaceinvaders_after](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/spaceinvaders_after.gif "spaceinvaders_after")
 
+| <img src="https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/breakout_after.gif" width="200" alt="breakout_after"/> | <img src="https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/seaquest_after.gif" width="200" alt="seaquest_after"/> | <img src="https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/spaceinvaders_after.gif" width="200" alt="spaceinvaders_after"/> |
+|---|---|---|
+| **Breakout After** | **Seaquest After** | **Space Invaders After** |
+
+
 ## Overview
 This repository contains the research conducted as part of my master's dissertation, to investigate the impact of entropy regularisation on various reinforcement learning (RL) agents. The project aims to attempt to identify optimal entropy coefficients that maximise learning and stability in three different Atari environments: Space Invaders, Seaquest, and Breakout.
 
