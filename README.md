@@ -41,7 +41,7 @@ For future work, the number of environments tested could be increased to see if 
 
 
 ## Video Demonstration
-A video demonstration of the visualized attention maps and the agent's performance across different settings and environments can be viewed [here](https://www.youtube.com/watch?v=hS4bjPz-kGw).
+A video demonstration of the visualised attention maps and the agent's performance across different settings and environments can be viewed [here](https://www.youtube.com/watch?v=hS4bjPz-kGw).
 
 
 ## Keywords
