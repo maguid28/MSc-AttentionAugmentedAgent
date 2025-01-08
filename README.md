@@ -48,10 +48,6 @@ A video demonstration of the visualised attention maps and the agent's performan
 | ![breakout_before](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/breakout_before.gif "breakout_before") | ![breakout_after](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/breakout_after.gif "breakout_after") |
 
 
-### Breakout before
-![breakout_before](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/breakout_before.gif "breakout_before")
-### Breakout after
-![breakout_after](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/breakout_after.gif "breakout_after")
 
 ## Keywords
 `Reinforcement Learning`, `Entropy Regularisation`, `Exploration-Exploitation Balance`, `Attention`, `Attention Maps`, `Hyperparameter Tuning`
