@@ -1,7 +1,7 @@
 # Master's Dissertation: Investigating the Impact of Entropy Regularisation on an Attention Augmented Agent
 
 ## Overview
-This repository contains the research conducted for my master's dissertation, which investigates the impact of entropy regularisation on reinforcement learning (RL) agents. The project aims to attempt to identify optimal entropy coefficients that maximise learning and stability in three different Atari environments: Space Invaders, Seaquest, and Breakout.
+This repository contains the research conducted as part of my master's dissertation, to investigate the impact of entropy regularisation on various reinforcement learning (RL) agents. The project aims to attempt to identify optimal entropy coefficients that maximise learning and stability in three different Atari environments: Space Invaders, Seaquest, and Breakout.
 
 ## Abstract
 In reinforcement learning, the balance between exploration and exploitation is crucial for effective training. Entropy regularisation is a technique used to promote exploration and prevent the convergence to sub-optimal policies by introducing stochasticity in policy distributions. This research focuses on how varying entropy regularisation coefficients affect the learning outcomes and stability of an RL agent augmented with an attention module. Through experimentation with various entropy coefficients and decay strategies, it was found that decaying entropy typically offers better performance than static entropy settings. Additionally, the complexity added by the attention network was evaluated to determine its impact on the agent’s learning capabilities. The findings indicate a correlation between increased network complexity and the degradation of learning efficiency.
@@ -35,11 +35,11 @@ The comparative average rewards with varying entropy coefficients in the Breakou
 
 ![SpaceInvaders Comparative Average Reward](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/Breakout%20Comparative%20Average%20Reward.png "SpaceInvaders Comparative Average Reward")
 
-![SpaceInvaders Comparative Best Run](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/SpaceInvaders%Comparative%Average%Reward.png "SpaceInvaders Comparative Average Reward")
+![SpaceInvaders Comparative Best Run](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/SpaceInvaders%20Best%20Run%20Comparison.png "SpaceInvaders Comparative Best Run")
 
-![Seaquest Comparative Average Reward](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/Breakout%20Comparative%20Average%20Reward.png "Seaquest Comparative Average Reward")
+![Seaquest Comparative Average Reward](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/Seaquest%20Comparative%20Average%20Reward.png "Seaquest Comparative Average Reward")
 
-![Seaquest Comparative Best Run](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/Breakout%20Best%20Run%20Comparison.png "Seaquest Comparative Best Run")
+![Seaquest Comparative Best Run](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/Seaquest%20Best%20Run%20Comparison.png "Seaquest Comparative Best Run")
 
 
 ## Video Demonstration
