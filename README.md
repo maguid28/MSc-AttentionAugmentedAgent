@@ -1,12 +1,8 @@
 # Investigating the Impact of Entropy Regularisation on an Attention Augmented Agent
 
-![breakout_after](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/breakout_after.gif "breakout_after")
-![seaquest_after](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/seaquest_after.gif "seaquest_after")
-![spaceinvaders_after](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/spaceinvaders_after.gif "spaceinvaders_after")
-
 | <img src="https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/breakout_after.gif" width="200" alt="breakout_after"/> | <img src="https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/seaquest_after.gif" width="200" alt="seaquest_after"/> | <img src="https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/spaceinvaders_after.gif" width="200" alt="spaceinvaders_after"/> |
 |---|---|---|
-| **Breakout After** | **Seaquest After** | **Space Invaders After** |
+| **Breakout** | **Seaquest** | **Space Invaders** |
 
 
 ## Overview
