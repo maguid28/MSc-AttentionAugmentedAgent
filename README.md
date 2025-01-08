@@ -1,4 +1,4 @@
-# Master's Dissertation: Investigating the Impact of Entropy Regularisation on an Attention Augmented Agent
+# Investigating the Impact of Entropy Regularisation on an Attention Augmented Agent
 
 ## Overview
 This repository contains the research conducted as part of my master's dissertation, to investigate the impact of entropy regularisation on various reinforcement learning (RL) agents. The project aims to attempt to identify optimal entropy coefficients that maximise learning and stability in three different Atari environments: Space Invaders, Seaquest, and Breakout.
