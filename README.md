@@ -35,7 +35,7 @@ The comparative average rewards with varying entropy coefficients in the Breakou
 
 ![SpaceInvaders Comparative Average Reward](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/Breakout%20Comparative%20Average%20Reward.png "SpaceInvaders Comparative Average Reward")
 
-![SpaceInvaders Comparative Best Run](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/Breakout%20Best%20Run%20Comparison.png "SpaceInvaders Comparative Best Run")
+![SpaceInvaders Comparative Best Run](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/SpaceInvaders%Comparative%Average%Reward.png "SpaceInvaders Comparative Average Reward")
 
 ![Seaquest Comparative Average Reward](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/Breakout%20Comparative%20Average%20Reward.png "Seaquest Comparative Average Reward")
 
