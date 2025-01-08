@@ -51,6 +51,14 @@ A video demonstration of the visualised attention maps and the agent's performan
 |-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
 | ![breakout_before](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/breakout_before.gif "breakout_before") | ![breakout_after](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/breakout_after.gif "breakout_after") |
 
+| Seaquest Agent Before Training                                                                          | Seaquest Agent After Training                                                                           |
+|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| ![seaquest_before](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/seaquest_before.gif "seaquest_before") | ![seaquest_after](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/seaquest_after.gif "seaquest_after") |
+
+| SpaceInvaders Agent Before Training                                                                          | SpaceInvaders Agent After Training                                                                           |
+|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| ![spaceinvaders_before](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/spaceinvaders_before.gif "spaceinvaders_before") | ![spaceinvaders_after](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/spaceinvaders_after.gif "spaceinvaders_after") |
+
 
 
 ## Keywords
