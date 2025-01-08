@@ -43,6 +43,11 @@ For future work, the number of environments tested could be increased to see if 
 ## Video Demonstration
 A video demonstration of the visualised attention maps and the agent's performance across different settings and environments can be viewed [here](https://www.youtube.com/watch?v=hS4bjPz-kGw).
 
+| Breakout Before                                                                           | Breakout After                                                                           |
+|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| ![breakout_before](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/breakout_before.gif "breakout_before") | ![breakout_after](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/breakout_after.gif "breakout_after") |
+
+
 ### Breakout before
 ![breakout_before](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/breakout_before.gif "breakout_before")
 ### Breakout after
