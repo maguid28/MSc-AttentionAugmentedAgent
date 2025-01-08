@@ -2,7 +2,6 @@
 
 | ![breakout_after](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/breakout_after.gif "breakout_after") | ![seaquest_after](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/seaquest_after.gif "seaquest_after") | ![spaceinvaders_after](https://github.com/maguid28/MSc-AttentionAugmentedRL/blob/main/results/spaceinvaders_after.gif "spaceinvaders_after") |
 |---|---|---|
-| **Breakout** | **Seaquest** | **Space Invaders** |
 
 
 ## Overview
