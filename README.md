@@ -15,7 +15,7 @@ In reinforcement learning, the balance between exploration and exploitation is c
 ## Key Experiments
 - **Entropy Coefficients**: Various coefficients were tested to determine which configurations yield the best results in terms of learning performance and stability.
 - **Decay Strategies**: Both static and dynamic entropy configurations were explored, with particular focus on understanding their impact across different game environments.
-- **Attention Mechanism**: The attention-augmented agent's decision-making processes were visualised using attention maps and provides insight into the influence of entropy regularisation on attention patterns.
+- **Attention Mechanism**: The attention-augmented agent's decision-making processes were visualised using attention maps and provides insight into the influence of entropy regularisation on attention patterns. The agent uses four attention heads, and the visualisation displays each head side by side for comparison across different runs and environments."  
 
 
 
